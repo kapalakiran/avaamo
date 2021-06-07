@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="AvaamoTestSuite" duration-ms="49843" started-at="2021-06-07T23:43:58Z" finished-at="2021-06-07T23:44:48Z">
+    <groups>
+    </groups>
+    <test name="Login" duration-ms="49843" started-at="2021-06-07T23:43:58Z" finished-at="2021-06-07T23:44:48Z">
+      <class name="com.web.avaamo.testcases.AvaamoTestRunner">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.reflect.Method)[pri:0, instance:com.web.avaamo.testcases.AvaamoTestRunner@24fcf36f]" name="setUp" is-config="true" duration-ms="5978" started-at="2021-06-07T23:43:58Z" finished-at="2021-06-07T23:44:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[src/main/resources/test/application.properties]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.web.avaamo.testcases.AvaamoTestRunner.verifyFillFormFunctionality()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickOnNotificationAndGetStarted()[pri:0, instance:com.web.avaamo.testcases.AvaamoTestRunner@24fcf36f]" name="clickOnNotificationAndGetStarted" is-config="true" duration-ms="3250" started-at="2021-06-07T23:44:04Z" finished-at="2021-06-07T23:44:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnNotificationAndGetStarted -->
+        <test-method status="PASS" signature="verifyFillFormFunctionality()[pri:0, instance:com.web.avaamo.testcases.AvaamoTestRunner@24fcf36f]" name="verifyFillFormFunctionality" duration-ms="8598" started-at="2021-06-07T23:44:08Z" finished-at="2021-06-07T23:44:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFillFormFunctionality -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.reflect.Method)[pri:0, instance:com.web.avaamo.testcases.AvaamoTestRunner@24fcf36f]" name="setUp" is-config="true" duration-ms="5050" started-at="2021-06-07T23:44:16Z" finished-at="2021-06-07T23:44:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[src/main/resources/test/application.properties]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.web.avaamo.testcases.AvaamoTestRunner.verifyNewTestFunctionality()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickOnNotificationAndGetStarted()[pri:0, instance:com.web.avaamo.testcases.AvaamoTestRunner@24fcf36f]" name="clickOnNotificationAndGetStarted" is-config="true" duration-ms="3378" started-at="2021-06-07T23:44:21Z" finished-at="2021-06-07T23:44:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnNotificationAndGetStarted -->
+        <test-method status="PASS" signature="verifyNewTestFunctionality()[pri:0, instance:com.web.avaamo.testcases.AvaamoTestRunner@24fcf36f]" name="verifyNewTestFunctionality" duration-ms="2025" started-at="2021-06-07T23:44:25Z" finished-at="2021-06-07T23:44:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNewTestFunctionality -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.reflect.Method)[pri:0, instance:com.web.avaamo.testcases.AvaamoTestRunner@24fcf36f]" name="setUp" is-config="true" duration-ms="4811" started-at="2021-06-07T23:44:27Z" finished-at="2021-06-07T23:44:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[src/main/resources/test/application.properties]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.web.avaamo.testcases.AvaamoTestRunner.verifyStartOverMenuOption()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickOnNotificationAndGetStarted()[pri:0, instance:com.web.avaamo.testcases.AvaamoTestRunner@24fcf36f]" name="clickOnNotificationAndGetStarted" is-config="true" duration-ms="3580" started-at="2021-06-07T23:44:32Z" finished-at="2021-06-07T23:44:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnNotificationAndGetStarted -->
+        <test-method status="PASS" signature="verifyStartOverMenuOption()[pri:0, instance:com.web.avaamo.testcases.AvaamoTestRunner@24fcf36f]" name="verifyStartOverMenuOption" duration-ms="2437" started-at="2021-06-07T23:44:35Z" finished-at="2021-06-07T23:44:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyStartOverMenuOption -->
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.reflect.Method)[pri:0, instance:com.web.avaamo.testcases.AvaamoTestRunner@24fcf36f]" name="setUp" is-config="true" duration-ms="7746" started-at="2021-06-07T23:44:38Z" finished-at="2021-06-07T23:44:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[src/main/resources/test/application.properties]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.web.avaamo.testcases.AvaamoTestRunner.verifyWelcomeScreen()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickOnNotificationAndGetStarted()[pri:0, instance:com.web.avaamo.testcases.AvaamoTestRunner@24fcf36f]" name="clickOnNotificationAndGetStarted" is-config="true" duration-ms="2654" started-at="2021-06-07T23:44:45Z" finished-at="2021-06-07T23:44:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnNotificationAndGetStarted -->
+        <test-method status="PASS" signature="verifyWelcomeScreen()[pri:0, instance:com.web.avaamo.testcases.AvaamoTestRunner@24fcf36f]" name="verifyWelcomeScreen" duration-ms="310" started-at="2021-06-07T23:44:48Z" finished-at="2021-06-07T23:44:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWelcomeScreen -->
+        <test-method status="PASS" signature="closeTheBrowser()[pri:0, instance:com.web.avaamo.testcases.AvaamoTestRunner@24fcf36f]" name="closeTheBrowser" is-config="true" duration-ms="490" started-at="2021-06-07T23:44:48Z" finished-at="2021-06-07T23:44:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeTheBrowser -->
+      </class> <!-- com.web.avaamo.testcases.AvaamoTestRunner -->
+    </test> <!-- Login -->
+  </suite> <!-- AvaamoTestSuite -->
+</testng-results>
