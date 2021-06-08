@@ -128,6 +128,7 @@ public class ConversationPopUp extends BaseFunctions{
 	 * @throws Exception
 	 */
 	public Boolean verifyGoogleLink() throws Exception {
+		Thread.sleep(2000);
 		selectDefaultCardLink("Google");
 		return click(closeBtnInWebView, "Close Button in web view");
 	}

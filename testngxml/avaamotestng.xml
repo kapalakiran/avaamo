@@ -11,9 +11,6 @@
 		<packages>
 			<package name="com.web.avaamo.testcases" />
 		</packages>
-
-		<!-- <classes> <class name="com.web.avaamo.testcases.LocusTestRunner"></class> 
-			</classes> -->
 	</test>
 </suite>
 
